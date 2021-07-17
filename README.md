@@ -20,8 +20,9 @@ Connect with me on:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+![image]({www.linkedin.com/in/satabdi-mishra-b72175194www.linkedin.com/in/satabdi-mishra-b72175194www.linkedin.com/in/satabdi-mishra-b72175194})
+![image]({https://www.instagram.com/_satabdi.mishra_/})
+
 
 
 <!-- links to social media icons -->
@@ -31,8 +32,6 @@ Connect with me on:
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[4.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 
 <!-- icons without padding -->
@@ -45,9 +44,7 @@ Connect with me on:
 
 [1]: https://twitter.com/satabdim10
 [2]: https://www.facebook.com/satabdi.mishra.716/
-[3]: www.linkedin.com/in/satabdi-mishra-b72175194
-[4]: https://www.instagram.com/_satabdi.mishra_/
-
+ 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
