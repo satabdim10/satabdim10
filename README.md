@@ -20,8 +20,6 @@ Connect with me on:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-![image]({www.linkedin.com/in/satabdi-mishra-b72175194www.linkedin.com/in/satabdi-mishra-b72175194www.linkedin.com/in/satabdi-mishra-b72175194})
-![image]({https://www.instagram.com/_satabdi.mishra_/})
 
 
 
