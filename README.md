@@ -7,7 +7,7 @@
 
 - 😄  Enthusiastic to contribute more to Open Source.
 
-  ⚡ Fun fact: I love to write & debate!
+- ⚡ Fun fact: I love to write & debate!
 
 
 
