@@ -5,7 +5,11 @@
 
 - 👯 I’m looking forward to collaborate on Data Science Projects.
 
-- ⚡ Fun fact: I love to write & debate!
+- 😄  Enthusiastic to contribute more to Open Source.
+
+  ⚡ Fun fact: I love to write & debate!
+
+
 
 
 
