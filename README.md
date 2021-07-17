@@ -10,7 +10,9 @@
 
 
 
- ##Connect with me on:
+ 
+Connect with me on:
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
